@@ -1,0 +1,37 @@
+{
+  "name": "blear.polyfills.selector",
+  "version": "1.0.0",
+  "description": "blear.polyfills.selector description",
+  "scripts": {},
+  "preferGlobal": false,
+  "bin": {},
+  "engines": {
+    "node": ">=1.0.0",
+    "iojs": ">=1.0.0"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "cloudcome",
+    "ydr.me"
+  ],
+  "author": {
+    "name": "cloudcome",
+    "email": "cloudcome@163.com",
+    "url": "http://ydr.me"
+  },
+  "contributors": [],
+  "homepage": "https://github.com/blearjs/blear.polyfills.selector",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blearjs/blear.polyfills.selector"
+  },
+  "bugs": {
+    "url": "https://github.com/blearjs/blear.polyfills.selector/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "blear.utils.compatible": "1.x"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
