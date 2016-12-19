@@ -1,6 +1,6 @@
 {
   "name": "blear.polyfills.selector",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "selector polyfills to IE8",
   "scripts": {},
   "preferGlobal": false,
@@ -31,10 +31,10 @@
   "bugs": {
     "url": "https://github.com/blearjs/blear.polyfills.selector/issues"
   },
-  "dependencies": {},
-  "peerDependencies": {
+  "dependencies": {
     "blear.utils.compatible": "1.x"
   },
+  "peerDependencies": {},
   "devDependencies": {},
   "license": "MIT"
 }
